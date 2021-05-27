@@ -3,7 +3,7 @@
 <p align="right"> <strong> Application home page </strong> </p>
 <img align="right" src="https://github.com/markinascimento/appCovid/blob/63057add9dc372fe9d599709ad036f2b250a5c88/src/assets/bg.jpg" width="350"/>
 
-<p> 💢 Aplication developed especially for the tcc only available for <strong> ANDROID </p>
+<p> 💢 Aplication developed especially for the tcc, only available for <strong> ANDROID </p>
 
 <h2> 🔥 <strong> Technology used </strong>  </h2>
 
