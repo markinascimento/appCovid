@@ -7,7 +7,7 @@
 
 <h2> 🔥 <strong> Technology used </strong>  </h2>
 
-<p> ▶ Expo </p>
+<p> ▶ Expo CLI </p>
 <p> ▶ React Navigation </p>
 <p> ▶ Vector Icons </p>
 <p> ▶ Styled Component </p>
