@@ -5,7 +5,7 @@
 
 <p> 💢 Aplication developed especially for the tcc, only available for <strong> ANDROID </p>
 
-<h2> 🔥 <strong> Technology used </strong>  </h2>
+<h2> ✅ <strong> Technology used </strong>  </h2>
 
 <p> ▶ Expo CLI </p>
 <p> ▶ React Navigation </p>
@@ -13,8 +13,7 @@
 <p> ▶ Styled Component </p>
 <p> ▶ Axios </p>
 
-<h1>  </h1>
 
-<h2> 🔥 <strong> Download or SDK </strong> </h2>
+<h2> 🔥 <strong> Download SDK </strong> </h2>
 
 [SDK](https://drive.google.com/folderview?id=1YQ40qC-g3ftbQtuQvaSuj766exrY_PYL)
